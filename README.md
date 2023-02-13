@@ -24,7 +24,7 @@ python -m virtualenv venv --python=python3.7
 python -m pip install -r requirements.txt
 ```
 
-4. Make sure you install [MPI]("https://www.microsoft.com/en-us/download/details.aspx?id=100593") as well.
+4. Make sure you install [MPI](https://www.microsoft.com/en-us/download/details.aspx?id=100593) as well.
 
 Note that *Python 3.7* is used in the virtual environment
 
