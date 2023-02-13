@@ -25,6 +25,8 @@ source venv/lib/activate
 python -m pip install -r requirements.txt
 ```
 
+4. Make sure you install [MPI]("https://www.microsoft.com/en-us/download/details.aspx?id=100593") as well.
+
 Note that *Python 3.7* is used in the virtual environment
 
 ## Branch Structure
