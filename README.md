@@ -10,12 +10,12 @@ python -m virtualenv venv --python=python3.7
 
 2. Activate the virtual environment
 
-For Windows:
+    * For Windows:
 ```bash
 venv/scripts/activate
 ```
 
-For Linux/MacOS:
+    * For Linux/MacOS:
 ```bash
 source venv/lib/activate
 ```
