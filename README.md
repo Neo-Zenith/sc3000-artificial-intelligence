@@ -4,24 +4,23 @@
 Run the following commands in your terminal window:
 
 1. Create a virtual environment
-```bash
+```console
 python -m virtualenv venv --python=python3.7
 ```
 
 2. Activate the virtual environment
 
-    * For Windows:
-```bash
-venv/scripts/activate
-```
-
-    * For Linux/MacOS:
-```bash
-source venv/lib/activate
-```
+   *  For **Windows**:
+      *  ```console
+         venv/scripts/activate
+         ```
+   *  For **MacOS/Linux**:
+      *  ```console
+         source venv/lib/activate
+         ```
 
 3. Install all dependencies
-```bash
+```console
 python -m pip install -r requirements.txt
 ```
 
