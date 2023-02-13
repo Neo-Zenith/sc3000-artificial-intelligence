@@ -9,16 +9,21 @@ python -m virtualenv venv --python=python3.7
 ```
 
 2. Activate the virtual environment
+
+For Windows:
 ```bash
 venv/scripts/activate
+```
+
+For Linux/MacOS:
+```bash
+source venv/lib/activate
 ```
 
 3. Install all dependencies
 ```bash
 python -m pip install -r requirements.txt
 ```
-
-4. Ensure that you have also installed [MPI](https://www.microsoft.com/en-us/download/details.aspx?id=100593). Otherwise, you may get a ```DLL load failed: The specified module could not be found when doing "from mpi4py import MPI"``` error.
 
 Note that *Python 3.7* is used in the virtual environment
 
