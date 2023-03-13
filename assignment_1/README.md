@@ -1,4 +1,4 @@
-# Lab Assignments
+# Assignment 1
 
 ## How to Start
 Run the following commands in your terminal window:
