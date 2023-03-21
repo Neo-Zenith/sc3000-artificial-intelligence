@@ -22,6 +22,8 @@ python -m pip install virtualenv
 ```console
 python -m pip install -r requirements.txt
 ```
+Installation of torch may cause your system to lag for roughly 5 minutes.
+
 
 Note that *Python 3.7* is used in the virtual environment
 
