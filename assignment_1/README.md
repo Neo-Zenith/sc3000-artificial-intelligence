@@ -42,6 +42,6 @@ Note that *Python 3.7* is used in the virtual environment
 
 
 ## ⭐ Authors
-[@Neo-Zenith](https://github.com/Neo-Zenith) (Lee Juin)
-[@john14759](https://github.com/john14759) (Johnathan Chow)
-[@timothy-lew](https://github.com/timothy-lew) (Timothy Lew)
+* [@Neo-Zenith](https://github.com/Neo-Zenith) (Lee Juin)
+* [@john14759](https://github.com/john14759) (Johnathan Chow)
+* [@timothy-lew](https://github.com/timothy-lew) (Timothy Lew)
